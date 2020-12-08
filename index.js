@@ -58,9 +58,12 @@ Do the following:
    3. Multiply a and b and return the answer
 */
 
-function multiply(/*add your code here*/){
-    /*add your code here*/
-  }
+function multiply(a, b){
+  return a * b
+}
+
+console.log(multiply(1,3));
+  
 
 
 
@@ -74,8 +77,8 @@ Do the following:
    3. Return the newly calculated age
 */
 
-function dogYears(/*add your code here*/){
-    /*add your code here*/
+function dogYears(1, 7){
+    return 1 * 7
 }
 
 
